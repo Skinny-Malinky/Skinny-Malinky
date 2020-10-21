@@ -2,6 +2,7 @@
 Hello! I'm Struan, a designer who loves to experiment with code. I've done a bunch of TV protoyping stuff but now I'm researching maps and fish. I know it's a wild one, but I'm pretty excited about it 🗺🐠🐟🐡🗺
 
 🐥twitter: https://twitter.com/struanfraser
+✍blog: https://struanfraser.co.uk
 
 <!--
 **Skinny-Malinky/Skinny-Malinky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
