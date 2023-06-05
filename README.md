@@ -1,5 +1,5 @@
 ### Ayyyyyy, it's me
-Hello! I'm Struan, a designer who loves to experiment with code. I've done a bunch of TV protoyping stuff but now I'm researching maps and fish. I know it's a wild one, but I'm pretty excited about it 🗺🐠🐟🐡🗺
+Hello! I'm Struan, a designer who loves to experiment with code.
 
 🐥twitter: https://twitter.com/struanfraser
 ✍blog: https://struanfraser.co.uk
