@@ -1,4 +1,3 @@
-### Ayyyyyy, it's me
 Hello! I'm Struan, a designer who loves to experiment with code.
 
 🐥twitter: https://twitter.com/struanfraser
