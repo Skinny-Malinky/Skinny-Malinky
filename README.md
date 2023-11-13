@@ -1,4 +1,4 @@
-Hello! I'm Struan, a designer who loves to experiment with code.
+I'm Struan, a designer who does code things.
 
 🐥twitter: https://twitter.com/struanfraser
 ✍blog: https://struanfraser.co.uk
